@@ -1,0 +1,380 @@
+{
+    "A02BA02": {
+        "atcnavn": "Ranitidin"
+    },
+    "A02BC01": {
+        "atcnavn": "Omeprazol"
+    },
+    "A02BC02": {
+        "atcnavn": "Pantoprazol"
+    },
+    "A02BC05": {
+        "atcnavn": "Esomeprazol"
+    },
+    "A03AX13": {
+        "atcnavn": "Silicone compounds"
+    },
+    "A03FA01": {
+        "atcnavn": "Metoklopramid"
+    },
+    "A06AB08": {
+        "atcnavn": "Natriumpikosulfat"
+    },
+    "A06AD11": {
+        "atcnavn": "Laktulose"
+    },
+    "A06AD65": {
+        "atcnavn": "Macrogol, combinations"
+    },
+    "A06AG02": {
+        "atcnavn": "Bisakodyl"
+    },
+    "A06BA04": {
+        "atcnavn": "General for constipation:NaN"
+    },
+    "A07AA02": {
+        "atcnavn": "Nystatin"
+    },
+    "A10BA02": {
+        "atcnavn": "Metformin"
+    },
+    "A11CC05": {
+        "atcnavn": "Kolekalsiferol"
+    },
+    "A11EA": {
+        "atcnavn": "Vitamin B complex, uncompounded preparations"
+    },
+    "A11JB": {
+        "atcnavn": "Vitamins with minerals"
+    },
+    "A12AX": {
+        "atcnavn": "Calcium, combinations with vitamin D and/or other substances"
+    },
+    "A12BA01": {
+        "atcnavn": "Kaliumklorid"
+    },
+    "A12BA02": {
+        "atcnavn": "Kaliumsitrat"
+    },
+    "B03AA01": {
+        "atcnavn": "Ferroaminoacetosulfat"
+    },
+    "B03AA07": {
+        "atcnavn": "Ferrosulfat"
+    },
+    "B03BA01": {
+        "atcnavn": "Cyanokobalamin"
+    },
+    "B03BA03": {
+        "atcnavn": "Hydroksokobalamin"
+    },
+    "C02AC02": {
+        "atcnavn": "Guanfacine"
+    },
+    "C07AA05": {
+        "atcnavn": "Propranolol"
+    },
+    "C09AA02": {
+        "atcnavn": "Enalapril"
+    },
+    "D01AC20": {
+        "atcnavn": "Kombinasjoner"
+    },
+    "D06AA03": {
+        "atcnavn": "Oksytetracyklin"
+    },
+    "D06AX01": {
+        "atcnavn": "Fusidinsyre"
+    },
+    "D06AX05": {
+        "atcnavn": "Bacitracin"
+    },
+    "D06BB03": {
+        "atcnavn": "Aciklovir"
+    },
+    "D07AA02": {
+        "atcnavn": "Hydrokortison"
+    },
+    "D07AB02": {
+        "atcnavn": "Hydrokortisonbutyrat"
+    },
+    "D07AB08": {
+        "atcnavn": "Desonid"
+    },
+    "D07AC01": {
+        "atcnavn": "Betametason"
+    },
+    "D07AC13": {
+        "atcnavn": "Mometason"
+    },
+    "D07BC01": {
+        "atcnavn": "Betametason and antiseptika"
+    },
+    "D07XC01": {
+        "atcnavn": "Betametason"
+    },
+    "D09AA02": {
+        "atcnavn": "Fusidinsyre"
+    },
+    "D10AD01": {
+        "atcnavn": "Tretinoin"
+    },
+    "D10AD03": {
+        "atcnavn": "Adapalen"
+    },
+    "D10AD53": {
+        "atcnavn": "Adapalene, combinations"
+    },
+    "G03AA07": {
+        "atcnavn": "Levonorgestrel and \u00f8strogen"
+    },
+    "G03AA09": {
+        "atcnavn": "Desogestrel and \u00f8strogen"
+    },
+    "G03AA12": {
+        "atcnavn": "Drospirenon and \u00f8strogen"
+    },
+    "G03AA13": {
+        "atcnavn": "Norelgestromin and \u00f8strogen"
+    },
+    "G03AC06": {
+        "atcnavn": "Medroksyprogesteron"
+    },
+    "G03AC09": {
+        "atcnavn": "Desogestrel"
+    },
+    "G03AD01": {
+        "atcnavn": "Levonorgestrel"
+    },
+    "G03AD02": {
+        "atcnavn": "Ulipristal"
+    },
+    "G03CA03": {
+        "atcnavn": "Estradiol"
+    },
+    "G03DA02": {
+        "atcnavn": "Medroksyprogesteron"
+    },
+    "G03FB05": {
+        "atcnavn": "Noretisteron and \u00f8strogen"
+    },
+    "G03HB01": {
+        "atcnavn": "Cyproteron and \u00f8strogen"
+    },
+    "H01BA02": {
+        "atcnavn": "Desmopressin"
+    },
+    "H02AB02": {
+        "atcnavn": "Deksametason"
+    },
+    "J01AA04": {
+        "atcnavn": "Lymecyklin"
+    },
+    "J01CA08": {
+        "atcnavn": "Pivmecillinam"
+    },
+    "J01CE02": {
+        "atcnavn": "Fenoksymetylpenicillin"
+    },
+    "J01CF01": {
+        "atcnavn": "Dikloxacillin"
+    },
+    "J01FA10": {
+        "atcnavn": "Azitromycin"
+    },
+    "J05AB01": {
+        "atcnavn": "Aciklovir"
+    },
+    "J07AH03": {
+        "atcnavn": "Meningococcal, divalent purified polysaccharide antigen"
+    },
+    "M01AE01": {
+        "atcnavn": "Ibuprofen"
+    },
+    "M01AE02": {
+        "atcnavn": "Naproksen"
+    },
+    "N01BB02": {
+        "atcnavn": "Lidokain"
+    },
+    "N01BB20": {
+        "atcnavn": "Kombinasjoner"
+    },
+    "N02AA59": {
+        "atcnavn": "Codeine, combinations excluding psycholeptics"
+    },
+    "N02BA01": {
+        "atcnavn": "Acetylsalisylsyre"
+    },
+    "N02BE01": {
+        "atcnavn": "Paracetamol"
+    },
+    "N02CC01": {
+        "atcnavn": "Sumatriptan"
+    },
+    "N02CC03": {
+        "atcnavn": "Zolmitriptan"
+    },
+    "N02CX02": {
+        "atcnavn": "Klonidin"
+    },
+    "N03AE01": {
+        "atcnavn": "Klonazepam"
+    },
+    "N03AF01": {
+        "atcnavn": "Karbamazepin"
+    },
+    "N03AG01": {
+        "atcnavn": "Valproinsyre"
+    },
+    "N03AX03": {
+        "atcnavn": "Sultiam"
+    },
+    "N03AX09": {
+        "atcnavn": "Lamotrigin"
+    },
+    "N03AX14": {
+        "atcnavn": "Levetiracetam"
+    },
+    "N05AA02": {
+        "atcnavn": "Levomepromazin"
+    },
+    "N05AD01": {
+        "atcnavn": "Haloperidol"
+    },
+    "N05AE04": {
+        "atcnavn": "Ziprasidon"
+    },
+    "N05AF03": {
+        "atcnavn": "Klorprotixen"
+    },
+    "N05AH03": {
+        "atcnavn": "Olanzapin"
+    },
+    "N05AH04": {
+        "atcnavn": "Quetiapin"
+    },
+    "N05AX08": {
+        "atcnavn": "Risperidon"
+    },
+    "N05AX12": {
+        "atcnavn": "Aripiprazol"
+    },
+    "N05BA01": {
+        "atcnavn": "Diazepam"
+    },
+    "N05BA04": {
+        "atcnavn": "Oxazepam"
+    },
+    "N05BB01": {
+        "atcnavn": "Hydroksyzin"
+    },
+    "N05CD02": {
+        "atcnavn": "Nitrazepam"
+    },
+    "N05CF01": {
+        "atcnavn": "Zopiklon"
+    },
+    "N05CF02": {
+        "atcnavn": "Zolpidem"
+    },
+    "N05CH01": {
+        "atcnavn": "Melatonin"
+    },
+    "N06AA04": {
+        "atcnavn": "Klomipramin"
+    },
+    "N06AA09": {
+        "atcnavn": "Amitriptylin"
+    },
+    "N06AB03": {
+        "atcnavn": "Fluoxetin"
+    },
+    "N06AB04": {
+        "atcnavn": "Citalopram"
+    },
+    "N06AB05": {
+        "atcnavn": "Paroxetin"
+    },
+    "N06AB06": {
+        "atcnavn": "Sertralin"
+    },
+    "N06AB10": {
+        "atcnavn": "Escitalopram"
+    },
+    "N06AX03": {
+        "atcnavn": "Mianserin"
+    },
+    "N06AX11": {
+        "atcnavn": "Mirtazapin"
+    },
+    "N06AX12": {
+        "atcnavn": "Bupropion"
+    },
+    "N06AX16": {
+        "atcnavn": "Venlafaxin"
+    },
+    "N06BA02": {
+        "atcnavn": "Deksamfetamin"
+    },
+    "N06BA04": {
+        "atcnavn": "Metylfenidat"
+    },
+    "N06BA09": {
+        "atcnavn": "Atomoksetin"
+    },
+    "N06BA12": {
+        "atcnavn": "Lisdeksamfetamin"
+    },
+    "N07BA02": {
+        "atcnavn": "Bupropion"
+    },
+    "N07BA03": {
+        "atcnavn": "Vareniklin"
+    },
+    "R01AC02": {
+        "atcnavn": "Levokabastin"
+    },
+    "R01AD09": {
+        "atcnavn": "Mometason"
+    },
+    "R03AC03": {
+        "atcnavn": "Terbutalin"
+    },
+    "R03BA02": {
+        "atcnavn": "Budesonid"
+    },
+    "R03BA05": {
+        "atcnavn": "Flutikason"
+    },
+    "R05DA01": {
+        "atcnavn": "Etylmorfin"
+    },
+    "R06AB02": {
+        "atcnavn": "Deksklorfeniramin"
+    },
+    "R06AD01": {
+        "atcnavn": "Alimemazin"
+    },
+    "R06AE07": {
+        "atcnavn": "Cetirizin"
+    },
+    "R06AX27": {
+        "atcnavn": "Desloratadin"
+    },
+    "S01AA01": {
+        "atcnavn": "Kloramfenikol"
+    },
+    "S01AA13": {
+        "atcnavn": "Fusidinsyre"
+    },
+    "S01GX02": {
+        "atcnavn": "Levokabastin"
+    },
+    "S01GX09": {
+        "atcnavn": "Olopatadin"
+    },
+    "V07A": {
+        "atcnavn": "All other non-therapeutic preparations"
+    }
+}
