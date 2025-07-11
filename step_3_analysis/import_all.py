@@ -24,8 +24,3 @@ import xlsxwriter
 from dotenv import load_dotenv
 from IPython.display import display
 from matplotlib.backends.backend_pdf import PdfPages
-
-# from ICD_EXCEL.mapped_icd_codes import mapped_icd_codes
-# from ICD_EXCEL.mapped_icd_codes import mapped_icd_codes
-# from ICD_EXCEL.mapped_icd_codes import mapped_icd_codes
-# from ICD_EXCEL.mapped_icd_codes import mapped_icd_codes
